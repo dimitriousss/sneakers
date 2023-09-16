@@ -1,4 +1,4 @@
-# Shoe Store Database-based Dashboard with Excel
+# Shoe Store Dashboard with Excel
 
 ## Product line of a sneaker store key features depicted on a dashboard
 
